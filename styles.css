@@ -1,0 +1,33 @@
+h1, h2, footer {
+    text-align: center;
+    color: #123458;
+}
+#myName, p {
+    margin: 0%;
+}
+
+.contact, a{
+    text-align: center;
+    color: #D4C9BE;
+    margin-top: 1%;
+}
+
+body {
+    background-color: #D4C9BE;
+    color: #F1EFEC;
+    margin: 0%;
+    margin-bottom: 2%;
+}
+
+.info {
+    background-color: #F1EFEC;
+    padding-bottom: 6%;
+    padding-top: 6%;
+ 
+}
+
+.resume {
+    padding-left: 7%;
+    padding-right: 7%;
+    text-align: justify;
+}
