@@ -5,7 +5,6 @@
     </head>
     <body>
         <h1>Giselle Pena Caminero</h1>
-        <p>+1 (829) 932 1931</p>
         <a href="https://github.com/gisellempc">GitHub</a>
         <h2>Summary</h2>
         <p>I am a self-taught software developer eager to learn and hone new skills. Someone who is seeking a challenging and progressive position to gain knowledge and experience from it.</p>
